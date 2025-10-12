@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+
 typedef struct Noeud {
     int valeur;
     struct Noeud*suivant;
